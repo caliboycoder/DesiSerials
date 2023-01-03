@@ -1,0 +1,16 @@
+[B]Version 1.0.0 - 01 Jan 2023[/B]
+- Base Code Changes
+    - None
+
+- Scrapers Added:
+    - todayPk
+ 
+- Scrapers Fixed/Updated:
+    - hindilink4u
+    - movierulz
+    - tamilgun
+    - tamilyogi
+
+- Scrapers Removed:
+    - b2t
+    - omg
